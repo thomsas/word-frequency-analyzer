@@ -1,0 +1,1 @@
+Word Frequency Analyzer: C++ tool to count word frequencies, showcasing STL and text processing.
